@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "descripcion": "limpiar y lavar ropa",
+    "estado": "en-progreso",
+    "creadoEn": "2025-02-01T04:14:07.016Z",
+    "actualizadoEn": "2025-02-01T04:15:35.204Z"
+  },
+  {
+    "id": 2,
+    "descripcion": "hacer tarea",
+    "estado": "pendiente",
+    "creadoEn": "2025-02-01T04:16:05.146Z",
+    "actualizadoEn": "2025-02-01T04:16:05.147Z"
+  }
+]
